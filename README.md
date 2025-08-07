@@ -26,11 +26,6 @@
 
 ---
 
-### 🚀 Projects
-Here are some projects I'm proud of:
-
-- 🧾 [**myfolio**](https://github.com/goridore/myfolio) – A developer portfolio app with smooth UX and blazing-fast Next.js
-
 
 ---
 
