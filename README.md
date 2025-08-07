@@ -30,17 +30,15 @@
 Here are some projects I'm proud of:
 
 - 🧾 [**myfolio**](https://github.com/goridore/myfolio) – A developer portfolio app with smooth UX and blazing-fast Next.js
-- 💬 [**chat-me**](#) – A realtime chat app with socket.io and Firebase auth
-- 📊 [**data-viz-dashboard**](#) – Visualize metrics with beautiful D3 and Chart.js
+
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel"></a>
+  <a href="https://linkedin.com/in/elvis-donkor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:theodelvis@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail"></a>
+  <a href="https://ted-folio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel"></a>
 </p>
 
 ---
