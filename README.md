@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm TeDbit</h1>
-<h3 align="center">A passionate Full-Stack Developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Elvis Donkor</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m currently working on: `myfolio` – a sleek portfolio app to showcase your work
-- 🌱 I’m currently learning **TypeScript**, **GraphQL**, and **CI/CD pipelines**
+- 🔭 I’m currently working on: `` – 
+- 🌱 I’m currently learning **NestJS**, ****, and ****
 - 💬 Ask me about **React**, **Next.js**, **Node.js**, or **building scalable UIs**
 - ⚡ Fun fact: I can debug your bug faster than you can say "console.log!"
 
@@ -20,8 +20,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeDbit&show_icons=true&theme=radical" alt="TeDbit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeDbit&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goridore&show_icons=true&theme=radical" alt="goridore's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goridore&theme=radical" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 🚀 Projects
 Here are some projects I'm proud of:
 
-- 🧾 [**myfolio**](https://github.com/TeDbit/myfolio) – A developer portfolio app with smooth UX and blazing-fast Next.js
+- 🧾 [**myfolio**](https://github.com/goridore/myfolio) – A developer portfolio app with smooth UX and blazing-fast Next.js
 - 💬 [**chat-me**](#) – A realtime chat app with socket.io and Firebase auth
 - 📊 [**data-viz-dashboard**](#) – Visualize metrics with beautiful D3 and Chart.js
 
